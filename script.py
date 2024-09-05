@@ -73,7 +73,6 @@ for game in games:
             data = file.readlines()
         currentLine = 0
         for i, item in enumerate(data):
-            # need to fix this check as it is not working for some reason
             if r"Software\\Wine\\DllOverrides" in item:
                 currentLine = i + 2 # add 2 to jump over time and title lines
                 break
