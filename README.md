@@ -1,5 +1,5 @@
 # protontricks discord rich presence adding script
-This script allows you to quickly add discord rich presence to all of your steam proton run games.
+This script allows you to quickly add discord rich presence to all of your steam proton run games without manually adding discord_prc to every game using protontricks winecfg (https://github.com/ValveSoftware/Proton/wiki/Enabling-Discord-Rich-Presence).
 ## Requirements
 Needed to have finished this guide to have ability to add discord_prc to registry files for wine registries:
 https://github.com/ValveSoftware/Proton/wiki/Enabling-Discord-Rich-Presence \
