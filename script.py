@@ -8,7 +8,7 @@ print("beginning script")
 protontricks_list = None
 
 try:
-    protontricks_list = subprocess.run(['mmmmmmmmmmmm', "-l"], capture_output=True)
+    protontricks_list = subprocess.run(['protontricks', "-l"], capture_output=True)
 except:
     print("ERROR: Please install protontricks onto your linux distribution before continuing")
     exit()
