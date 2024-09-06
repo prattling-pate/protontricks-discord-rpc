@@ -9,7 +9,7 @@ Software:
 - Steam
 - Proton
 ## Information
-Very simple python script which finds your games appids through protontricks and then uses and library folders to identify where to find the wine prefix for each game to add discord rich presence to it through its registry.
+Very simple python script which finds your games appids through protontricks and then uses the library folders to identify where to find the wine prefix for each game to add discord rich presence to it through its user registry.
 ## Usage
 Designed for Linux, tested on ArchLinux. \
 To execute the script simply run the following command in a terminal once you're in the same folder.
